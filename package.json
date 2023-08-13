@@ -1,9 +1,9 @@
 {
-  "name": "hugoplate",
-  "description": "hugo tailwindcss boilerplate",
-  "version": "1.7.2",
+  "name": "TipsFprEngineers",
+  "description": "Blog website for software engineers to share their tips and tricks about software development from the very basics to the most advanced topics in the industry , java , javascript , python , c++ , c , c# , php , kotlin , swift , go , rust , ruby , dart , flutter , react , angular , vue , svelte , nextjs , nuxtjs , gatsbyjs , hugo , jekyll , wordpress , drupal , laravel , spring , django , flask , express , nodejs , deno , .net , asp.net , asp.net core , asp.net mvc , asp.net web api , asp.net razor pages , asp.net blazor , asp.net blazor server , asp.net blazor wasm , asp.net blazor hybrid , asp.net blazor pwa , asp.net blazor webassembly , asp.net blazor webassembly hosted , asp.net blazor webassembly standalone , asp.net blazor webassembly standalone pwa , asp.net blazor webassembly standalone hosted , asp.net blazor webassembly standalone hosted pwa , asp.net blazor webassembly hosted pwa , asp.net blazor webassembly hosted standalone , asp.net blazor webassembly hosted standalone",
+  "version": "1.0.0",
   "license": "MIT",
-  "author": "zeon.studio",
+  "author": "Mounir El Bakkali",
   "scripts": {
     "dev": "hugo server",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",

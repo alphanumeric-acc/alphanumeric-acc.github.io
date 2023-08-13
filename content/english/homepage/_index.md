@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Hi I am Mounir El Bakkali"
-  content: "Code Journey: From Vision to Reality – Your Partner in Software Solutions and Project Excellence."
+  content: "Code Journey: From Vision to Reality – <b>Your Partner in Software Solutions and Project Excellence.</b><br/> I am a software engineer and content creator. I love to share my knowledge with others and help them to learn new things. I'm a big fan of open source and I'm always looking for new ways to contribute to the community."
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,31 +11,31 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "DevForge Services: Powering Your Digital Dreams"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Experience a new dimension of software excellence with CodeCraft's comprehensive range of services tailored to bring your vision to life. Here's what's included:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "🚀 &nbsp;&nbsp;&nbsp;&nbsp;<b> Dynamic web solutions (SAS)</b>"
+      - "🔥 &nbsp;&nbsp;&nbsp;&nbsp;<b> Robust Java development</b>"
+      - "💡 &nbsp;&nbsp;&nbsp;&nbsp;<b> Front-End Artistry</b>"
+      - "🛠️  &nbsp;&nbsp;&nbsp;&nbsp;<b> Collaborative Creation</b>"
+      - "🌐  &nbsp;&nbsp;&nbsp;&nbsp;<b> Web Application Development</b>"
+      - "📱 &nbsp;&nbsp;&nbsp;&nbsp;<b> Mobile Expertise</b>"
+      - "🚀  &nbsp;&nbsp;&nbsp;&nbsp;<b> Project Realization</b>"
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Hire Me"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Explore the Signature Features of My Software Creations"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Unveil the exceptional facets of the software products I engineer. These distinctive features are meticulously crafted to elevate user experiences and empower seamless functionality:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Efficient Performance, Minus the Overhead: My software solutions are designed to excel without the unnecessary burden of excess Java runtime. Enjoy swift, uninterrupted performance that doesn't compromise on efficiency.."
+      - "UI Flexibility: Embrace your preferred UI framework. My software supports a wide spectrum of choices, from React and Preact to Svelte, Vue, Solid, Lit, and beyond. The freedom to craft your user interface just the way you envision it."
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Hire Me"
       link: "https://tips4engineers.me/contact/"
 
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"

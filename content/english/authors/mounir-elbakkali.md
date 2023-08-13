@@ -2,7 +2,7 @@
 title: Mounir El Bakkali
 email: bakkalimounir41@email.com
 image: "/images/avatar.png"
-description: this is meta description
+description: "Software Engineer and Content Creator"
 social:
   - name: github
     icon: fa-brands fa-github
@@ -17,4 +17,4 @@ social:
     link: https://linkedin.com
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+I'm a software engineer and content creator. I love to share my knowledge with others and help them to learn new things. I'm a big fan of open source and I'm always looking for new ways to contribute to the community.
