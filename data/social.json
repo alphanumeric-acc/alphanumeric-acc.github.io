@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/MounirBakkali12"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/mounirelbakkali1"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/in/mounirbakkali/"
+    }
+  ]
+}
