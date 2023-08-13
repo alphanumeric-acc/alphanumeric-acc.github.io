@@ -2,8 +2,8 @@ name = "Tips4Engineers"
 license = "MIT"
 licenselink = "https://github.com/zeon-studio/hugoplate/blob/main/LICENSE"
 description = "Tips4Engineers is a blog website made for engineers , where Mounir El Bakkali shares his knowledge and experience in the field of software engineering , web development and programming in general ."
-homepage = "https://github.com/zeon-studio/hugoplate"
-demosite = "https://hugoplate.netlify.app/"
+homepage = "https://tips4engineers.me/"
+demosite = "https://tips4engineers.me/"
 min_version = "0.115.4"
 
 tags = [
