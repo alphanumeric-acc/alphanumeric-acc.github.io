@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Hi I am Mounir El Bakkali 👋"
-  content: "Code Journey: From Vision to Reality – <b>Your Partner in Software Solutions and Project Excellence.</b><br/> I am a software engineer and content creator. I love to share my knowledge with others and help them to learn new things. I'm a big fan of open source and I'm always looking for new ways to contribute to the community."
+  title: "Welcome to Tips For Engineers👋"
+  content: "Code Journey: From Vision to Reality – <b>Your Partner in Software Solutions and Project Excellence.</b><br/>I am <b><a href='https://tips4engineers.me/about'>Mounir El bakkali</a></b> , software engineer and content creator. I love to share my knowledge with others and help them to learn new things. I'm a big fan of open source and I'm always looking for new ways to contribute to the community."
   image: "/images/banner.png"
   button:
     enable: true
