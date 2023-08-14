@@ -62,10 +62,10 @@ weight = 5
 name = "Contact"
 url = "contact/"
 
-[[main]]
-name = "Elements"
-url = "elements/"
-weight = 6
+#[[main]]
+#name = "Elements"
+#url = "elements/"
+#weight = 6
 
 
 ##  [[main]]
