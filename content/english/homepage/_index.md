@@ -13,6 +13,7 @@ banner:
 features:
   - title: "DevForge Services: Powering Your Digital Dreams"
     image: "/images/service-1.png"
+    id: "services"
     content: "Experience a new dimension of software excellence with CodeCraft's comprehensive range of services tailored to bring your vision to life. Here's what's included:"
     bulletpoints:
       - "🚀 &nbsp;&nbsp;&nbsp;&nbsp;<b> Dynamic web solutions (SAS)</b>"
@@ -29,6 +30,7 @@ features:
 
   - title: "Explore the Signature Features of My Software Creations"
     image: "/images/service-2.png"
+    id: "features"
     content: "Unveil the exceptional facets of the software products I engineer. These distinctive features are meticulously crafted to elevate user experiences and empower seamless functionality:"
     bulletpoints:
       - "Efficient Performance, Minus the Overhead: My software solutions are designed to excel without the unnecessary burden of excess Java runtime. Enjoy swift, uninterrupted performance that doesn't compromise on efficiency.."
@@ -40,6 +42,7 @@ features:
 
   - title: "Explore the Rich Offerings on Mounir's Website"
     image: "/images/service-3.png"
+    id: "offerings"
     content: "Dive into a world of insights, expertise, and inspiration as you navigate through Mounir's website. Here's a glimpse of what you can expect to discover."
     bulletpoints:
       - "Software Development Journey."

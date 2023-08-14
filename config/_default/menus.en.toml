@@ -11,13 +11,18 @@ name = "About"
 url = "about/"
 weight = 2
 
+[[main]]
+name = "Services"
+url = "/#services"
+weight = 3
+
 ##  [[main]]
 ##  name = "Elements"
 ##  url = "elements/"
 ##  weight = 3
 
 [[main]]
-weight = 3
+weight = 4
 name = "Blog"
 hasChildren = true
 
@@ -53,7 +58,7 @@ name = "Tags"
 url = "tags/"
 
 [[main]]
-weight = 4
+weight = 5
 name = "Contact"
 url = "contact/"
 
