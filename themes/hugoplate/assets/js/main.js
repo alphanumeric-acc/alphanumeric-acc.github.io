@@ -13,10 +13,10 @@
     },
     breakpoints: {
       768: {
-        slidesPerView: 2,
+        slidesPerView: 1,
       },
       992: {
-        slidesPerView: 3,
+        slidesPerView: 1, // change to number of testimonials you want to show
       },
     },
   });
