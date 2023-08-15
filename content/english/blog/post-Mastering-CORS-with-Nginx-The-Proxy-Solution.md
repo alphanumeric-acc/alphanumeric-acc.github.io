@@ -97,4 +97,4 @@ sudo systemctl restart nginx
 #### Conclusion
 <br>
 
-In a world where CORS barriers can occasionally slow down our development endeavors, the Nginx proxy emerges as a powerful ally. By mediating between your client and the target server, it eradicates CORS issues, facilitating uninterrupted communication. As you delve into the intricacies of proxy configuration, you're equipping yourself with a versatile tool that empowers your projects with seamless cross-origin communication. Say goodbye to CORS-induced headaches and hello to an Nginx-fueled journey of uninterrupted data flow. 
+In a world where CORS restrictions might sometimes hinder our development progress, the Nginx proxy becomes a valuable friend. By acting as a bridge between your client and the destination server, it eliminates CORS problems and ensures smooth communication. As you dive into the details of configuring the proxy, you're arming yourself with a flexible tool that enhances your projects by enabling smooth cross-origin communication. Bid farewell to the frustrations of CORS issues and welcome a journey powered by Nginx, where data flows without interruption.

@@ -1,5 +1,5 @@
 ---
-title: "Creating Your First Spring Cloud Function: Embrace Serverless Computing [Part 2]"
+title: "Creating Your First Spring Cloud Function: Adopt Serverless Computing [Part 2]"
 meta_title: "servless, spring cloud function, java, spring boot, spring cloud"
 description: "In this article, we will create our first Spring Cloud Function and deploy it to AWS Lambda."
 date: 2023-06-19T00:00:00+00:00
@@ -12,10 +12,13 @@ draft: false
 
 
 ### Dive into Serverless with Spring Cloud Function
-Welcome to the second part of our journey into the realm of Spring Cloud Function! This post unveils the magic of Spring Cloud Function and walks you through the process of crafting your very first one. If you're ready to explore serverless computing, then let's dive right in!
+Welcome to the next step in our exploration of Spring Cloud Function! In this part, we'll uncover the wonders of Spring Cloud Function and guide you through creating your very first one. If you're excited to learn about serverless computing, let's get started without delay!
 
 🔗 Link to My Article Big Picture of Spring Cloud Function:
 For a comprehensive view, check out the visual representation of Spring Cloud Function here.
+
+
+[Part 2](http://localhost:1313/blog/post-creating-your-first-spring-cloud-function-embrace-serverless-computing-part1/)
 
 
 #### 1. Dependency Setup
@@ -31,10 +34,10 @@ Now, it's decision time. Opt for a functional interface that aligns with your re
 Select the interface that resonates with your use case.
 
 #### 3. Inject Business Logic
-Here's the exciting part – infusing your chosen functional interface with business logic. By bypassing complex server configuration and focusing squarely on your business logic, Spring Cloud Function empowers rapid progress.
+Now comes the exciting part – adding your selected functional interface with your business logic. Instead of dealing with complicated server setup, Spring Cloud Function helps you make fast progress by concentrating on your business tasks.
 
 #### 4. The @Bean Finale
-Culminate your function creation by annotating it with @Bean. This step is pivotal for enabling HTTP requests or messaging-based invocation.
+Finish making your function by adding @Bean to it. This is an important step that allows you to use HTTP requests or messages to call the function.
 
 That's It!
 Voilà! That's all you need to craft your first function and step into the universe of serverless applications. Spring Boot and Spring Cloud Function orchestrate the entire process, so you can concentrate on unleashing your innovation.

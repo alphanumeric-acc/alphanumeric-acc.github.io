@@ -1,12 +1,19 @@
 {{ define "main" }}
+<style>
+  .article-image{
+    max-width: 600px;
+    margin: auto;
+    object-fit: cover;
+}
+</style>
   <section class="section pt-7">
     <div class="container">
       <div class="row justify-center">
         <article class="lg:col-10">
           {{ $image:= .Params.image }}
           {{ if $image }}
-            <div class="mb-10">
-              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded") }}
+            <div class="mb-10" >
+              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded article-image") }}
             </div>
           {{ end }}
           <h1 class="h2 mb-4">

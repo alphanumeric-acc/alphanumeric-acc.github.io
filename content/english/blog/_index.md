@@ -1,5 +1,5 @@
 ---
 title: "Blog Posts"
-meta_title: ""
-description: "blog posts about software development,tips and tricks and more"
+meta_title: "tips,tricks,software engineering,software development,programming,software,software engineering tips,software development tips,programming tips,programming tricks,java tips,java tricks,java,java programming,java development,java software,java software development,java software engineering,java software engineering tips,java software development tips,java software engineering tricks,java software development tricks,api development,api development tips,microservices,microservices tips,microservices tricks,microservices development,microservices development tips,microservices development tricks,software engineering blog,software development blog,programming blog,java blog,api blog,microservices blog,software engineering blog posts,software development blog posts,programming blog posts,java blog posts,api blog posts,microservices blog posts,frontend,frontend tips,frontend tricks,frontend development,frontend development tips,frontend development,backend,backend tips,backend tricks,backend development,backend development tips,backend development tricks,frontend development blog,backend development blog"
+description: "A collection of blog posts on software engineering, software development, programming, Java, API development, microservices, frontend development, and backend development."
 ---

@@ -12,12 +12,12 @@ draft: false
 
 #### Introduction 
 
-Unveiling a pro tip for seamless API development: Partitioning Documentation on API Versions. As you embark on the journey of introducing new API versions, wielding effective documentation becomes paramount. Discover how to harness the prowess of tools like Springfox to offer version-specific documentation, equipping your clients with the resources they need to navigate multiple API iterations.
+Unveiling a pro tip for seamless API development: Partitioning Documentation on API Versions. As you embark on the journey of introducing new API versions, wielding effective documentation becomes very important.In this article I wanted to share with you how to hitch up the prowess of tools like Springfox to offer version-specific documentation, equipping your clients with the resources they need to navigate multiple API iterations.
 
 ##### 🛤️ The Path to Effective Documentation
-Imagine introducing a new API version, a realm brimming with fresh functionalities and possibilities. To ensure your clients can harness the power of both old and new versions, meticulous documentation is key.
+When you introduce a new version of your API, it is important to provide documentation for each version so that clients can understand how to use both versions effectively.
 
-##### 🔍 The Power of PathSelectors
+##### 🔍 Use PathSelectors to filter endpoints to create version-specific documentation
 Enter Springfox, a beacon of light in the API development landscape. Nestled within the Docket object, PathSelectors emerge as your allies. These nifty tools empower you to filter endpoints based on ant pattern matching, rendering your documentation generation efforts laser-focused.
 
 ##### 📑 The Blueprint of Success
@@ -27,4 +27,4 @@ Picture this: each API version basks in its own dedicated documentation oasis. T
 For those who crave code snippets, the solution lies in the comments section. Dive in and unearth the magic of incorporating PathSelectors to sculpt version-specific documentation.
 
 #### Conclusion
-With this pro tip in your arsenal, the journey of API versioning becomes not only smoother but also well-documented. Empower your clients with the resources they need to traverse multiple API iterations, unlocking the true potential of your APIs. As you embark on this documentation odyssey, remember that a well-organized API is a gift that keeps on giving. Share this wisdom with your fellow developers, shaping a future where versioned APIs seamlessly coexist with comprehensive documentation. 🚀
+With this pro tip in head, the journey of API versioning becomes not only smoother but also well-documented. Empower your clients with the resources they need to traverse multiple API iterations, unlocking the true potential of your APIs. As you embark on this documentation practice, remember that a well-organized API is a gift that keeps on giving.<br/> Share this wisdom with your fellow developers, shaping a future where versioned APIs seamlessly coexist with comprehensive documentation. 🚀
