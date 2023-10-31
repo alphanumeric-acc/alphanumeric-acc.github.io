@@ -4,7 +4,7 @@ baseURL = "https://tips4engineers.me/"
 # Title of your website (required).
 title = "Tips For Engineers | Java Geeks | Programming enthausist"
 # Your theme name
-theme = ""
+theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Africa/Casablanca"
 # post pagination
@@ -84,7 +84,7 @@ maxAge = "720h"
 unsafe = true
 
 [markup.highlight]
-style = 'catppuccin-frappe' # see https://xyproto.github.io/splash/docs/all.html
+style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
 
 [markup.tableOfContents]
 startLevel = 2
