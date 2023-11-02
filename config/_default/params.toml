@@ -21,7 +21,7 @@ logo_text = "Tips4Engineers"
 
 
 # navbar fixed to top
-navbar_fixed = true
+navbar_fixed = false
 
 
 # theme-mode
