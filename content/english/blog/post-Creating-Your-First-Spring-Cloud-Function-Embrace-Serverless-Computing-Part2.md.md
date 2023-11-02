@@ -18,7 +18,7 @@ Welcome to the next step in our exploration of Spring Cloud Function! In this pa
 For a comprehensive view, check out the visual representation of Spring Cloud Function here.
 
 
-[Part 2](http://localhost:1313/blog/post-creating-your-first-spring-cloud-function-embrace-serverless-computing-part1/)
+[Part 2](https://tips4engineers.me//blog/post-creating-your-first-spring-cloud-function-embrace-serverless-computing-part1/)
 
 
 #### 1. Dependency Setup
