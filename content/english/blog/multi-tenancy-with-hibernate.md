@@ -9,12 +9,12 @@ author: "Mounir El Bakkali"
 tags: ["backend","saas"]
 draft: false
 ---
-##### ☁ working on SAAS solution ?
+> ##### ☁ working on SAAS solution ?
 
-wonder how to separate information and customization for each of your clients so that you isolate access to information and minimize coupling ,If there is a problem with one client's data set, it won't impact the other clients.
+  wonder how to separate information and customization for each of your clients so that you isolate access to information and minimize coupling ,If there is a problem with one client's data set, it won't impact the other clients.
 
 
-> if that the case : welcome to multi-tenancy concept 🚀
+  if that the case : welcome to multi-tenancy concept 🚀
 
 
 it indicate an architecture in which a single instance of an application serves simultaneously multiple clients (tenants)
