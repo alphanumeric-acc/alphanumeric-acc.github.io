@@ -62,8 +62,8 @@ path = "github.com/gethugothemes/hugo-modules/components/render-link"
 # [[imports]]
 # path = "github.com/gethugothemes/hugo-modules/components/valine-comment"
 
-# [[imports]]
-# path = "github.com/gethugothemes/hugo-modules/components/crisp-chat"
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/components/crisp-chat"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/shortcodes/button"

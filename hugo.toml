@@ -144,3 +144,6 @@ link = "js/modal.js"
 link = "plugins/cookie.js"
 [[params.plugins.js]]
 link = "plugins/youtube-lite.js"
+[[params.plugins.js]]
+link = "https://cpwebassets.codepen.io/assets/embed/ei.js"
+attributes = "async"

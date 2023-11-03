@@ -16,7 +16,7 @@
         slidesPerView: 1,
       },
       992: {
-        slidesPerView: 1, // change to number of testimonials you want to show
+        slidesPerView: 2, // change to number of testimonials you want to show
       },
     },
   });
