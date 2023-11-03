@@ -36,3 +36,4 @@ pages:
   artifacts:
     paths:
       - public
+      - ads.txt
