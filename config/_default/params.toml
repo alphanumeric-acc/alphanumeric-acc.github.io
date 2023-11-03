@@ -30,7 +30,7 @@ theme_default = "system" # available options [light/dark/system]
 
 
 # Main Sections
-mainSections = ["blog"]
+mainSections = ["Home","Blog","Services"]
 
 
 # contact form action
@@ -53,7 +53,7 @@ copyright = "Owned By [Mounir El Bakkali](https://www.linkedin.com/in/mounirbakk
 
 # Preloader
 [preloader]
-enable = true
+enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
