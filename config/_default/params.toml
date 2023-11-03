@@ -26,7 +26,7 @@ navbar_fixed = false
 
 # theme-mode
 theme_switcher = true
-theme_default = "dark" # available options [light/dark/system]
+theme_default = "system" # available options [light/dark/system]
 
 
 # Main Sections
@@ -53,8 +53,8 @@ copyright = "Owned By [Mounir El Bakkali](https://www.linkedin.com/in/mounirbakk
 
 # Preloader
 [preloader]
-enable = false
-preloader = "images/220.gif" # use jpg, png, svg or gif format.
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
@@ -94,7 +94,7 @@ mastodon = "" # Your verification code
 enable = true
 expire_days = 60
 content = "This website uses cookies to enhance your browsing experience. By continuing to utilize this site, you are consenting to the utilization of these cookies to improve your interaction with the content."
-button = "I Accept"
+button = "I Accept Recommeded Cookies"
 
 ######################## sidebar widgets #########################
 [widgets]
