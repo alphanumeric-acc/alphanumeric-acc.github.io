@@ -11,36 +11,36 @@ banner:
 
 # Features
 features:
-  - title: "DevForge Services: Powering Your Digital Dreams"
+  - title: "Realizing Your Digital Ambitions with My Expertise"
     image: "/images/service-1.png"
     id: "services"
-    content: "Experience a new dimension of software excellence with CodeCraft's comprehensive range of services tailored to bring your vision to life. Here's what's included:"
+    content: "I offer a wide range of services to help you achieve your digital goals."
     bulletpoints:
-      - "🚀 &nbsp;&nbsp;&nbsp;&nbsp;<b> Dynamic web solutions (SAS)</b>"
-      - "🔥 &nbsp;&nbsp;&nbsp;&nbsp;<b> Robust Java development</b>"
-      - "💡 &nbsp;&nbsp;&nbsp;&nbsp;<b> Front-End Artistry</b>"
-      - "🛠️  &nbsp;&nbsp;&nbsp;&nbsp;<b> Collaborative Creation</b>"
-      - "🌐  &nbsp;&nbsp;&nbsp;&nbsp;<b> Web Application Development</b>"
-      - "📱 &nbsp;&nbsp;&nbsp;&nbsp;<b> Mobile Expertise</b>"
-      - "🚀  &nbsp;&nbsp;&nbsp;&nbsp;<b> Project Realization</b>"
+      - "🚀 &nbsp;&nbsp;&nbsp;&nbsp;<b> Dynamic Web solutions (SAAS)</b>"
+      - "🔥 &nbsp;&nbsp;&nbsp;&nbsp;<b> Java/Spring Development</b>"
+      - "💡 &nbsp;&nbsp;&nbsp;&nbsp;<b> Software Testing</b>"
+      - "🔒  &nbsp;&nbsp;&nbsp;&nbsp;<b> Web Security Testing</b>"
+      - "🌐  &nbsp;&nbsp;&nbsp;&nbsp;<b> CI/CD with Azure DevOps</b>"
     button:
       enable: false
       label: "Hire Me"
       link: "#"
 
-  - title: "Explore the Signature Features of My Software Creations"
+  - title: "Whom can I help?"
     image: "/images/service-2.png"
     id: "features"
-    content: "Unveil the exceptional facets of the software products I engineer. These distinctive features are meticulously crafted to elevate user experiences and empower seamless functionality:"
+    content: "I can help you if you are:"
     bulletpoints:
-      - "Efficient Performance, Minus the Overhead: My software solutions are designed to excel without the unnecessary burden of excess Java runtime. Enjoy swift, uninterrupted performance that doesn't compromise on efficiency.."
-      - "UI Flexibility: Embrace your preferred UI framework. My software supports a wide spectrum of choices, from React and Preact to Svelte, Vue, Solid, Lit, and beyond. The freedom to craft your user interface just the way you envision it."
+      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Small Besiness Owner looking for a software solution to automate your business.</b>"
+      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Startup looking for a software solution to build your MVP.</b>"
+      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> An Entrprise looking for Freelance Java Software Engineer to help you with your project.</b>"
+      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Software Engineer looking for a mentor to help you to improve your skills.</b>"
     button:
-      enable: false
+      enable: true
       label: "Hire Me"
       link: "https://www.linkedin.com/in/mounirbakkali/"
 
-  - title: "Explore the Rich Offerings on Mounir's Website"
+  - title: "Explore  Mounir's Blog"
     image: "/images/service-3.png"
     id: "offerings"
     content: "Dive into a world of insights, expertise, and inspiration as you navigate through Mounir's website. Here's a glimpse of what you can expect to discover."
