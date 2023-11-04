@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Welcome to Tips For Engineers👋"
-  content: "Code Journey: From Vision to Reality – <b>Your Partner in Software Solutions and Project Excellence.</b><br/>I am <b><a href='https://tips4engineers.me/about'>Mounir El bakkali</a></b> , software engineer and content creator. I love to share my knowledge with others and help them to learn new things. I'm a big fan of open source and I'm always looking for new ways to contribute to the community."
+  content: "Turning Ideas into Powerful Software. I'm <b><a href='https://tips4engineers.me/about'>Mounir El bakkali</a></b>, a software developer and content creator, I help small businesses and startups to build their software solutions."
   image: "/images/banner.png"
   button:
     enable: true
