@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Welcome to Tips For Engineers👋"
-  content: "Turning Ideas into Powerful Software. I'm <b><a href='https://tips4engineers.me/about'>Mounir El bakkali</a></b>, a software developer and content creator, I help small businesses and startups to build their software solutions."
+  title: "Welcome To T4E👋"
+  content: "I'm <b><a href='https://tips4engineers.me/about'>Mounir El bakkali</a></b>, a software developer and content creator, I help small businesses and startups to build their software solutions."
   image: "/images/banner.png"
   button:
     enable: true
