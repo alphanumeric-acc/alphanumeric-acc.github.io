@@ -6,7 +6,7 @@
     <div class="container">
       <div class="row">
         <div class="md:col-10 lg:col-6 mx-auto">
-          <form action="{{ site.Params.contact_form_action }}" method="POST">
+          <form action="{{ site.Params.contact_form_action }}" method="POST" id="contactForm">
             <div class="mb-6">
               <label for="name" class="form-label">
                 Full Name <span class="text-red-500">*</span>
@@ -16,7 +16,9 @@
                 name="name"
                 class="form-input"
                 placeholder="Your name"
-                type="text" />
+                type="text"
+                required
+                />
             </div>
             <div class="mb-6">
               <label for="email" class="form-label">
@@ -27,7 +29,20 @@
                 name="email"
                 class="form-input"
                 placeholder="Your email"
-                type="email" />
+                type="email"
+                required
+                />
+            </div>
+            <div class="mb-6">
+              <label for="subject" class="form-label">
+                Subject <span class="text-red-500">*</span>
+              </label>
+              <select id="subject" name="subject" class="form-input" required>
+                <option value="General">General</option>
+                <option value="Collaboration">Collaboration</option>
+                <option value="Offer">Offer</option>
+                <option value="Other">Other</option>
+              </select>
             </div>
             <div class="mb-6">
               <label for="message" class="form-label">
@@ -38,7 +53,9 @@
                 name="message"
                 class="form-input"
                 placeholder="Message goes here..."
-                rows="8"></textarea>
+                rows="8"
+                required
+                ></textarea>
             </div>
             <button type="submit" class="btn btn-primary">Submit</button>
           </form>

@@ -22,8 +22,8 @@ features:
       - "🔒  &nbsp;&nbsp;&nbsp;&nbsp;<b> Web Security Testing</b>"
       - "🌐  &nbsp;&nbsp;&nbsp;&nbsp;<b> CI/CD with Azure DevOps</b>"
     button:
-      enable: false
-      label: "Hire Me"
+      enable: true
+      label: "Explore our  Unique Value Proposition"
       link: "#"
 
   - title: "Whom can I help?"
