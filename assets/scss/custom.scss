@@ -2,17 +2,16 @@
 .typewriter h1 {
     overflow: hidden;
     /* Ensures the content is not revealed until the animation */
-    border-right: .15em solid rgb(0, 0, 0);
+    // border-right: .15em solid rgb(0, 0, 0);
     /* The typwriter cursor */
-    white-space: nowrap;
+    // white-space: nowrap;
     width: fit-content;
     /* Keeps the content on a single line */
-    margin: 0 auto;
+    margin: 0 auto 15px;
     /* Gives that scrolling effect as the typing happens */
-    /* Adjust as needed */
-    animation:
+     /*animation:
         typing 3.5s steps(40, end),
-        blink-caret .75s step-end infinite;
+        blink-caret .75s step-end infinite;*/
 }
 
 // on small screens
@@ -45,3 +44,32 @@
         border-color: rgb(0, 0, 0);
     }
 }
+
+
+// .highlight {
+//   display: inline-block;
+//   position: relative;
+//   margin: 0 0.8rem;
+//   &:before {
+//     content: '';
+//     position: absolute;
+//     top: 0;
+//     left: 0px;
+//     width: 100%;
+//     height: 100%;
+//     transform: perspective(300px) skewX(1deg) rotateX(-12deg) rotateY(-4deg) scale(1.1);
+//     background-image: linear-gradient(78deg, #fff88c 30%, #ffffff);
+//     z-index: -1;
+//     transition: all 0.3s;
+//     border-radius: 0.2rem;
+// }
+//   &:hover:before {
+//     transform: perspective(300px) skewX(-1deg) rotateX(12deg) rotateY(4deg) scale(1);
+//   }
+// }
+// .text {
+//   // fix safari bug
+//   display: inline-block;
+//   transform: translateZ(100px);
+// }
+

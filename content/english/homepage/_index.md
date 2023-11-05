@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Welcome To T4E👋"
-  content: "I'm <b><a href='https://tips4engineers.me/about'>Mounir El bakkali</a></b>, a software developer and content creator, I help small businesses and startups to build their software solutions."
+  title: "Want to build smart, innovative software solutions using cloud-native and excel in your business 🚀"
+  content: "I'm <b><a href='https://tips4engineers.me/about'>Mounir El bakkali</a></b>, a software developer and content creator, dedicated to empowering businesses through cutting-edge technology.<br>Let's work together to apply the power of cloud-native solutions for your success"
   image: "/images/banner.png"
   button:
     enable: true
@@ -20,7 +20,7 @@ features:
       - "🔥 &nbsp;&nbsp;&nbsp;&nbsp;<b> Java/Spring Development</b>"
       - "💡 &nbsp;&nbsp;&nbsp;&nbsp;<b> Software Testing</b>"
       - "🔒  &nbsp;&nbsp;&nbsp;&nbsp;<b> Web Security Testing</b>"
-      - "🌐  &nbsp;&nbsp;&nbsp;&nbsp;<b> CI/CD with Azure DevOps</b>"
+      - "🌐  &nbsp;&nbsp;&nbsp;&nbsp;<b> Automated CI/CD pipelines</b>"
     button:
       enable: true
       label: "Explore our  Unique Value Proposition"
@@ -31,10 +31,10 @@ features:
     id: "features"
     content: "I can help you if you are:"
     bulletpoints:
-      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Small Besiness Owner </b>looking for a software solution to automate your business."
-      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Startup </b> looking for a software solution to build your MVP."
+      - "🧑‍💼 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Small Besiness Owner </b>looking for a software solution to automate your business."
+      - "🎯 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Startup </b> looking for a software solution to build your MVP."
       - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> An Entrprise </b>looking for Freelance Java Software Engineer to help you with your project."
-      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Software Engineer </b>looking for a mentor to help you to improve your skills."
+      - "🤷‍♂️ &nbsp;&nbsp;&nbsp;&nbsp; <b> A Software Engineer </b>looking for a mentor to help you to improve your skills."
     button:
       enable: true
       label: "Hire Me"
