@@ -31,10 +31,10 @@ features:
     id: "features"
     content: "I can help you if you are:"
     bulletpoints:
-      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Small Besiness Owner looking for a software solution to automate your business.</b>"
-      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Startup looking for a software solution to build your MVP.</b>"
-      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> An Entrprise looking for Freelance Java Software Engineer to help you with your project.</b>"
-      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Software Engineer looking for a mentor to help you to improve your skills.</b>"
+      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Small Besiness Owner </b>looking for a software solution to automate your business."
+      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Startup </b> looking for a software solution to build your MVP."
+      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> An Entrprise </b>looking for Freelance Java Software Engineer to help you with your project."
+      - "👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp; <b> A Software Engineer </b>looking for a mentor to help you to improve your skills."
     button:
       enable: true
       label: "Hire Me"
