@@ -7,7 +7,7 @@ image: "/images/articles-assets/microservices-defining-architecture.jpeg"
 categories: ["Backend"]
 author: "Mounir El Bakkali"
 tags: ["microservices", "java", "spring"]
-draft: false
+draft: true
 ---
 
 #### Introduction 

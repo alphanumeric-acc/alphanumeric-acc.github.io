@@ -7,7 +7,7 @@ image: "/images/articles-assets/serverless.jpeg"
 categories: ["Cloud", "Backend", "Java"]
 author: "Mounir El Bakkali"
 tags: ["serverless", "cloud", "java", "spring"]
-draft: false
+draft: true
 ---
 
 

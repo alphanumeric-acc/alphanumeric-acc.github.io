@@ -7,7 +7,7 @@ image: "/images/articles-assets/ci-cd-pipelines.jpeg"
 categories: ["Backend"]
 author: "Mounir El Bakkali"
 tags: ["ci/cd", "devops", "jenkins"]
-draft: false
+draft: true
 ---
 
 #### Introduction 

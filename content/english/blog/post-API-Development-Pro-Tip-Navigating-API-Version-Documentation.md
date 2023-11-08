@@ -7,7 +7,7 @@ image: "/images/articles-assets/api-docs.jpeg"
 categories: ["API Development", "Backend"]
 author: "Mounir El Bakkali"
 tags: ["api", "documentation", "java","springfox"]
-draft: false
+draft: true
 ---
 
 #### Introduction 

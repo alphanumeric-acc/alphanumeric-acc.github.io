@@ -7,7 +7,7 @@ image: "/images/articles-assets/maven&gradle.jpeg"
 categories: ["Java"]
 author: "Mounir El Bakkali"
 tags: ["build tools", "maven", "gradle"]
-draft: false
+draft: true
 ---
 
 #### Introduction

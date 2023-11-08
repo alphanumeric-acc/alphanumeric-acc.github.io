@@ -7,7 +7,7 @@ image: "/images/articles-assets/multi-tenant.png"
 categories: ["Backend"]
 author: "Mounir El Bakkali"
 tags: ["backend","saas"]
-draft: false
+draft: true
 ---
 > #####  working on SAAS solution ?
   wonder how to separate information and customization for each of your clients so that you isolate access to information and minimize coupling ,If there is a problem with one client's data set, it won't impact the other clients.
