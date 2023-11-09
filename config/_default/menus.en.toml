@@ -9,11 +9,16 @@ weight = 1
 [[main]]
 name = "About"
 url = "about/"
-weight = 2
+weight = 4
 
 [[main]]
 name = "Services"
 url = "/#services"
+weight = 2
+
+[[main]]
+name = "Portfolio"
+url = "/projects"
 weight = 3
 
 ##  [[main]]
@@ -22,10 +27,15 @@ weight = 3
 ##  weight = 3
 
 [[main]]
-weight = 4
+weight = 5
 name = "Blog"
 hasChildren = true
 
+
+[[main]]
+weight = 6
+name = "Contact"
+url = "contact/"
 
 
 [[main]]
@@ -57,15 +67,12 @@ parent = "Blog"
 name = "Tags"
 url = "tags/"
 
-[[main]]
-weight = 5
-name = "Contact"
-url = "contact/"
 
-#[[main]]
-#name = "Elements"
-#url = "elements/"
-#weight = 6
+
+## [[main]]
+## name = "Elements"
+## url = "elements/"
+## weight = 6
 
 
 ##  [[main]]
@@ -83,9 +90,31 @@ weight = 1
 [[footer]]
 name = "Contact"
 url = "contact/"
+weight = 3
+
+
+[[footer]]
+name = "Services"
+url = "/#services"
 weight = 2
 
 [[footer]]
 name = "Privacy Policy"
 url = "privacy-policy/"
-weight = 3
+weight = 4
+
+[[footer]]
+name = "Terms of Use"
+url = "terms-of-use/"
+weight = 5
+
+## [[footer]]
+## name = "Sitemap"
+## url = "sitemap.xml"
+#weight = 6
+
+## [[footer]]
+## name = "RSS"
+## url = "index.xml"
+## weight = 7
+
