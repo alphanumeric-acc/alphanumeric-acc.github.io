@@ -27,10 +27,10 @@
 </div> -->
   <section class="section">
     <div class="container">
-          <div class="row gx-1">
+          <div class="row gx-4">
             {{ $paginator:= .Paginate .RegularPages }}
             {{ range $paginator.Pages }}
-              <div class="md:col-4 sm:col-6  mb-14">
+              <div class="md:col-4 sm:col-6  mb-4">
                 {{ partial "components/project-card" . }}
               </div>
             {{ end }}
