@@ -1,7 +1,7 @@
 {{ define "main" }}
 <style>
   .article-image{
-    max-width: 300px;
+    max-width: 600px;
     margin: auto;
     object-fit: cover;
 }
@@ -19,6 +19,9 @@
           <h1 class="h2 mb-4">
             {{ .Title }}
           </h1>
+          <div class="content dark:text-darkmode-primary  mb-10">
+            {{ .Description }}
+          </div>
           <div class="content mb-10">
             {{ .Content }}
           </div>
