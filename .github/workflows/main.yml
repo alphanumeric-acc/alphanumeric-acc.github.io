@@ -54,6 +54,9 @@ jobs:
       - name: Install npm dependencies
         run: npm install
 
+      - name: Move ads.txt
+        run: mv ads.txt ./public/
+
       - name: Publish to GitHub Pages
         run: npm run build
 
