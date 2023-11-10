@@ -16,6 +16,9 @@
 - id: tags
   translation: Tags
 
+- id: tech
+  translation: Tech
+
 - id: toc
   translation: Table of Contents
 
