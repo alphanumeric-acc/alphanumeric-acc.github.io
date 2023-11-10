@@ -1,0 +1,40 @@
+{{ define "main" }}
+<style>
+  .article-image{
+    max-width: 300px;
+    margin: auto;
+    object-fit: cover;
+}
+</style>
+  <section class="section pt-7">
+    <div class="container">
+      <div class="row justify-center">
+        <article class="lg:col-10">
+          <!-- {{ $image:= .Params.image }}
+          {{ if $image }}
+            <div class="mb-10" >
+              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded article-image") }}
+            </div>
+          {{ end }} -->
+          <h1 class="h2 mb-4">
+            {{ .Title }}
+          </h1>
+          <div class="row gx-4 dark:text-darkmode-primary mb-10">
+              <div class="md:col-6">
+                {{ .Description  }}
+                 <div class="content mb-10">
+                  <a href="{{ .Params.link }}" target="_blank">Link to the project </a>
+                </div>
+              </div>
+              <div class="md:col-6 content mb-10">
+                {{ .Content }} 
+              </div>
+            </div>
+            </div>
+
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+{{ end }}

@@ -16,7 +16,7 @@ features:
     id: "services"
     content: "I offer a wide range of services to help you achieve your digital goals."
     bulletpoints:
-      - "🚀 &nbsp;&nbsp;&nbsp;&nbsp;<b> Dynamic Web solutions (SAAS)</b>"
+      - "🚀 &nbsp;&nbsp;&nbsp;&nbsp;<b> Dynamic Web solutions</b>"
       - "🔥 &nbsp;&nbsp;&nbsp;&nbsp;<b> Java/Spring Development</b>"
       - "💡 &nbsp;&nbsp;&nbsp;&nbsp;<b> Software Testing</b>"
       - "🔒  &nbsp;&nbsp;&nbsp;&nbsp;<b> Web Security Testing</b>"
@@ -24,7 +24,7 @@ features:
     button:
       enable: true
       label: "Explore our  Unique Value Proposition"
-      link: "#"
+      link: "/uvp/"
 
   - title: "Whom can I help?"
     image: "/images/service-2.png"

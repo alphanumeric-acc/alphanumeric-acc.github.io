@@ -7,24 +7,23 @@ image: "/images/articles-assets/api-docs.jpeg"
 categories: ["API Development", "Backend"]
 author: "Mounir El Bakkali"
 tags: ["api", "documentation", "java","springfox"]
-draft: true
+draft: false
 ---
+#### Introduction
 
-#### Introduction 
+Welcome to simple tips for making API development easier. Today, we're going to talk about how to document different versions of APIs. As we make new versions of APIs, it's important to explain how they work. In this article, I'll show you how to use tools like Springfox to make guides for each version of your API. This will help your clients use different versions of your API easily.
 
-Unveiling a pro tip for seamless API development: Partitioning Documentation on API Versions. As you embark on the journey of introducing new API versions, wielding effective documentation becomes very important.In this article I wanted to share with you how to hitch up the prowess of tools like Springfox to offer version-specific documentation, equipping your clients with the resources they need to navigate multiple API iterations.
+##### Making a Good Guide
+Each new version of an API introduces new features and changes. It's our job to help users understand these changes. Good documentation for each version is key. It helps clients know how to use both old and new versions of your API. It also makes using your API a better experience.
 
-##### 🛤️ The Path to Effective Documentation
-When you introduce a new version of your API, it is important to provide documentation for each version so that clients can understand how to use both versions effectively.
+##### Using PathSelectors to Make Version-Specific Guides
+In API development, Springfox is a great tool. It has many powerful features, including PathSelectors. PathSelectors are part of the Docket object. They help you make version-specific guides. With PathSelectors, you can select endpoints based on patterns. This makes your guide precise and efficient. It's like having a compass to help you navigate your API structure.
 
-##### 🔍 Use PathSelectors to filter endpoints to create version-specific documentation
-Enter Springfox, a beacon of light in the API development landscape. Nestled within the Docket object, PathSelectors emerge as your allies. These nifty tools empower you to filter endpoints based on ant pattern matching, rendering your documentation generation efforts laser-focused.
+##### Building a Successful Guide
+Imagine a world where each API version has its own section in your guide. This section only has information about that version. With PathSelectors, you can make this happen. You can select only the endpoints that are related to each version. This results in a clear Swagger UI for each version. It's easy for your clients to understand and use.
 
-##### 📑 The Blueprint of Success
-Picture this: each API version basks in its own dedicated documentation oasis. Thanks to PathSelectors, you can tailor your documentation to include only the endpoints pertinent to each version. The result? Swagger UI for each distinct version, making navigation a breeze.
-
-##### 📝 The Code Unveiled
-For those who crave code snippets, the solution lies in the comments section. Dive in and unearth the magic of incorporating PathSelectors to sculpt version-specific documentation.
+##### Practical Examples
+For those who learn best by doing, check out the comments section. You'll find code snippets and examples of how to use the ideas in this article. See how PathSelectors work in real life, and learn how to make version-specific guides.
 
 #### Conclusion
-With this pro tip in head, the journey of API versioning becomes not only smoother but also well-documented. Empower your clients with the resources they need to traverse multiple API iterations, unlocking the true potential of your APIs. As you embark on this documentation practice, remember that a well-organized API is a gift that keeps on giving.<br/> Share this wisdom with your fellow developers, shaping a future where versioned APIs seamlessly coexist with comprehensive documentation. 🚀
+With these tips, you can make API versioning easier and more user-friendly. By giving your clients the resources they need, you make your APIs more useful. Remember that a well-organized API is a gift that keeps on giving. So, share this knowledge with your fellow developers. Let's work together to make API development and documentation better for everyone. Here's to a brighter future in API development! 🚀
