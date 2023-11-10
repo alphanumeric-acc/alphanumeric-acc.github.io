@@ -105,7 +105,7 @@ weight = 3
 
 [[footer]]
 name = "My Unique Value Proposition"
-url = "/projects"
+url = "/uvp"
 weight = 4
 
 [[footer]]
