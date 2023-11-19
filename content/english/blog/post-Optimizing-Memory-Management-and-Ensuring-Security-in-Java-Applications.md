@@ -7,7 +7,7 @@ image: "/images/articles-assets/memory.jpeg"
 categories: ["Application","Security"]
 author: "Mounir El bakkali"
 tags: ["java"]
-draft: true
+draft: false
 ---
 
 #### Introduction

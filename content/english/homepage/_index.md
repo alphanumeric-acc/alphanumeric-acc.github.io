@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "Want to build smart, innovative software solutions using cloud-native and excel in your business 🚀"
-  content: "I'm <b><a href='https://tips4engineers.me/about'>Mounir El bakkali</a></b>, a software developer and content creator, dedicated to empowering businesses through cutting-edge technology.<br>Let's work together to apply the power of cloud-native solutions for your success"
+  title: "Leading the Future: Developing Robust, Secure, and Next-Gen Software Development🚀"
+  content: "I'm <b><a href='https://tips4engineers.me/about'>Mounir El bakkali</a></b>, a software developer and content creator, dedicated to empowering businesses through cutting-edge technology.<br>Let's work together to build your next big thing!"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Let's Get In Touch"
+    label: "Start Building Together"
     link: "https://tips4engineers.me/contact/"
 
 # Features
@@ -18,12 +18,12 @@ features:
     bulletpoints:
       - "🚀 &nbsp;&nbsp;&nbsp;&nbsp;<b> Dynamic Web solutions</b>"
       - "🔥 &nbsp;&nbsp;&nbsp;&nbsp;<b> Java/Spring Development</b>"
-      - "💡 &nbsp;&nbsp;&nbsp;&nbsp;<b> Software Testing</b>"
-      - "🔒  &nbsp;&nbsp;&nbsp;&nbsp;<b> Web Security Testing</b>"
-      - "🌐  &nbsp;&nbsp;&nbsp;&nbsp;<b> Automated CI/CD pipelines</b>"
+      - "🔒 &nbsp;&nbsp;&nbsp;&nbsp;<b> Software/Web Security Testing</b>"
+      - "💡 &nbsp;&nbsp;&nbsp;&nbsp;<b> System Modeling and Design</b>"
+      - "🌐 &nbsp;&nbsp;&nbsp;&nbsp;<b> Automated CI/CD pipelines</b>"
     button:
       enable: true
-      label: "Explore our  Unique Value Proposition"
+      label: "Explore my UVP"
       link: "/uvp/"
 
   - title: "Whom can I help?"
@@ -45,7 +45,6 @@ features:
     id: "offerings"
     content: "Dive into a world of insights, expertise, and inspiration as you navigate through Mounir's website. Here's a glimpse of what you can expect to discover."
     bulletpoints:
-      - "Software Development Journey."
       - "Project Showcases."
       - "Tech Tutorials."
       - "Collaborative Insights."

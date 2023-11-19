@@ -7,7 +7,7 @@ image: "/images/articles-assets/nginx-proxy-cors.jpeg"
 categories: ["API", "Backend", "Frontend", "Web"]
 author: "Mounir El Bakkali"
 tags: ["nginx", "proxy", "cors", "react", "backend", "api"]
-draft: true
+draft: false
 ---
 
 #### Introduction
