@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Leading the Future: Developing Robust, Secure, and Next-Gen Software Development🚀"
+  title: "Leading the Future: Robust, Secure, and Next-Gen Software Development🚀"
   content: "I'm <b><a href='https://tips4engineers.me/about'>Mounir El bakkali</a></b>, a software developer and content creator, dedicated to empowering businesses through cutting-edge technology.<br>Let's work together to build your next big thing!"
   image: "/images/banner.png"
   button:
